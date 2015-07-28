@@ -1,0 +1,13 @@
+100 iterations
+
+base:
+
+Overall 51686 time, medium 516.86635
+
+optimized:
+
+
+
+optimizedJquery:
+
+Overall 18248 time, medium 182.4883

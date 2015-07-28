@@ -1,0 +1,76 @@
+10 iters
+
+base:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 15266.09
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 16126.795
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 16086.48
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 16145.58
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 16221.565
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 16010.2
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 16156.48
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 16196.32
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 16223.99
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 16249.69
+Tester.js:51 Overall 160683 time, medium 16068.319
+
+optimized:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 4470.75
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 4297.205
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 4178.285
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 4150.605
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 4390.98
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 4733.855
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 4793.225
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 4958.695
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 4743.57
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 4958.635
+Tester.js:51 Overall 45675 time, medium 4567.5805
+
+optimizedJquery:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 3805.485
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 3588.165
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 3746.025
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 4095.64
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 4052.485
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 4193.88
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 4049.65
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 4115.175
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 4473.19
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 4626.815
+Tester.js:51 Overall 40746 time, medium 4074.651

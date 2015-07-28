@@ -1,0 +1,11 @@
+base:
+
+Overall 4317 time, medium 43.1715
+
+optimized:
+
+
+
+optimizedJquery:
+
+Overall 1719 time, medium 17.1971

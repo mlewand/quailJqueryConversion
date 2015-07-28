@@ -1,0 +1,77 @@
+10 iters
+
+base:
+
+starting
+Tester.js:57 iteration 1/10
+jquery.js:7784 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.
+Tester.js:68 iter took 8247.495
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 8011.575
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 7745.735
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 8074.115
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 7426.095
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 8008.67000000001
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 7872.72
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 8154.13000000001
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 7451.86
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 8187.705
+Tester.js:51 Overall 79180 time, medium 7918.01
+
+optimized:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 4583.215
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 4002.125
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 3972.345
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 4036.67
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 4012.9
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 3993.205
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 4268.16
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 3937.22
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 3616.93500000001
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 3605.78
+Tester.js:51 Overall 40028 time, medium 4002.8555
+
+optimizedJquery:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 3521.74
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 2916.665
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 3107.25
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 3310.6
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 3169.775
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 2890.865
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 3211.7
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 3531.125
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 3430.39
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 3151.67
+Tester.js:51 Overall 32241 time, medium 3224.178

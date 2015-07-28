@@ -1,0 +1,12 @@
+3 ites // unable to finish it
+
+base:
+
+
+
+optimized:
+
+
+
+optimizedJquery:
+

@@ -1,0 +1,13 @@
+100 iters
+
+base:
+
+Overall 97 time, medium 0.979849999999997
+
+optimized:
+
+Overall 98 time, medium 0.983750000000002
+
+optimizedJquery:
+
+Overall 38 time, medium 0.389950000000008

@@ -1,0 +1,74 @@
+base:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 1444.83
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 1411.59
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 1422.77
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 1405.23
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 1410.96
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 1397.835
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 1414.265
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 1395.16
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 1405.56
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 1397.465
+Tester.js:51 Overall 14105 time, medium 1410.5665
+
+optimized:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 1256.995
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 1217.72
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 1208.12
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 1207.985
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 1205.62
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 1216.785
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 1208.985
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 1203.665
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 1203.34
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 1213.48
+Tester.js:51 Overall 12142 time, medium 1214.2695
+
+optimizedJquery:
+
+starting
+Tester.js:57 iteration 1/10
+Tester.js:68 iter took 1206.525
+Tester.js:57 iteration 2/10
+Tester.js:68 iter took 1169.14
+Tester.js:57 iteration 3/10
+Tester.js:68 iter took 1184.365
+Tester.js:57 iteration 4/10
+Tester.js:68 iter took 1168.475
+Tester.js:57 iteration 5/10
+Tester.js:68 iter took 1162.275
+Tester.js:57 iteration 6/10
+Tester.js:68 iter took 1178.73
+Tester.js:57 iteration 7/10
+Tester.js:68 iter took 1171.86
+Tester.js:57 iteration 8/10
+Tester.js:68 iter took 1159.695
+Tester.js:57 iteration 9/10
+Tester.js:68 iter took 1157.28
+Tester.js:57 iteration 10/10
+Tester.js:68 iter took 1176.29
+Tester.js:51 Overall 11734 time, medium 1173.4635
