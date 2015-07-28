@@ -176,7 +176,7 @@ base | 1410.5665
 optimized | 1214.2695
 optimizedJquery | 1173.4635
 
-![Chart illustrating integration with small content performance table](img/selector.imgHasAlt.png)
+![Chart illustrating integration with small content performance table](img/quail.smallContent.png)
 
 #### Integration: quail.largeContent
 
