@@ -11,7 +11,7 @@ We put three different builds in their own dist directory, and so:
 
 More info about these builds you'll find in [optimization.md](optimization.md).
 
-## `!test.html`
+## `index.html`
 
 Main file for testing is `_benchs/index.html`. It contains HTML fixtures. There are two fixtures:
 
