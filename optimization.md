@@ -188,6 +188,8 @@ base | 16068.319
 optimized | 4567.5805
 optimizedJquery | 4074.651
 
+![Chart illustrating integration with large content performance table](img/quail.largeContent.png)
+
 #### Integration: quail.smallContent.wcag2
 
 10 queries
