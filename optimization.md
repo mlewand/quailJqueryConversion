@@ -29,7 +29,7 @@ As such, we started by removing some jQuery functions and replacing them with st
 
 When we started the work we decided to erase jQuery in a step-by-step process. First instead of completely removing jQuery we used its builder to generate build without some modules. This resulted with a jQuery dropping following modules:
 
-```-ajax,-ajax/xhr,-ajax/script,-ajax/jsonp,-deprecated,-effects,-event,-event/alias,-wrap,-exports/amd,-sizzle```
+`-ajax,-ajax/xhr,-ajax/script,-ajax/jsonp,-deprecated,-effects,-event,-event/alias,-wrap,-exports/amd,-sizzle`
 
 This gave us minified `jquery.js` with a size of `46,2KB` (16,4KB gzipped) instead of `82,3KB` (28,8KB gzipped). Ratio 56%
 
